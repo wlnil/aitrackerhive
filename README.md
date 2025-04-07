@@ -1,7 +1,7 @@
 # AITrackerHive - Advanced Music Artist Tracking Platform
 
 [![Visit AITrackerHive](https://img.shields.io/badge/Visit-AITrackerHive-8F00FF)](https://aitrackerhive.com)
-[![Built with Astro](https://astro.badgen.net/badge/built%20with/Astro/blue)](https://astro.build)
+![Built with Astro](https://img.shields.io/badge/Built_with-Astro-FF5A33?logo=astro&logoColor=white&style=flat)
 [![Multilingual](https://img.shields.io/badge/Multilingual-EN%20|%20AR%20|%20PT-green)](https://aitrackerhive.com)
 
 ## 🎵 About AITrackerHive
